@@ -13,7 +13,7 @@ export class Footer extends React.Component {
         //     <li ><a href="https://www.linkedin.com/in/drake-gooding-13a2591bb/">Linkedin</a></li>
         //   </ul>
         // </div>
-        <div className='container'>
+        <div  style={{backgroundColor:'rgb(207, 166, 226)', width:'100%', position:'fixed', bottom:0, textAlign:'center'}}>
         <nav id="footer" className='row'>
             <a className='col-3' href="https://github.com/Drake-G">Github</a>
             <a className='col-3' href="https://www.instagram.com/drake.gooding/">Instagram</a>

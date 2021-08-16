@@ -3,7 +3,7 @@ import React from 'react';
 export class Contact extends React.Component {
     render() {
         return (
-            <div>
+            <div style={{textAlign:'center'}}>
             <h2 id="contactMe">Contact Me</h2>
             <ul>
                 <li>

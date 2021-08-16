@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 export class Navigation extends React.Component {
     render() {
         // const backgroundStyle = {backgroundColor:'rgb(216, 188, 253)', padding:50}
-        const pages = ['About', 'Portfoio', 'Resume', 'Contact'];
+        const pages = ['About', 'Portfolio', 'Resume', 'Contact'];
         const navLinks = pages.map(page => {
          return (
              <a href={'/' + page} id='link' className='col-3'>

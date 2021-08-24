@@ -14,11 +14,11 @@ class App extends React.Component {
       <div className='App'>
         <Navigation />
         <Switch>
-          <Route exact path='/react-portfolio-2/About' component={HomePage} />
-          <Route exact path='/react-portfolio-2/' component={HomePage} />
-          <Route exact path='/react-portfolio-2/Portfolio' component={PortfolioPage} />
-          <Route exact path='/react-portfolio-2/Contact' component={ContactPage} />
-          <Route exact path='/react-portfolio-2/Resume' component={ResumePage} />
+          <Route exact path='/About' component={HomePage} />
+          <Route exact path='/' component={HomePage} />
+          <Route exact path='/Portfolio' component={PortfolioPage} />
+          <Route exact path='/Contact' component={ContactPage} />
+          <Route exact path='/Resume' component={ResumePage} />
         </Switch>
         <Footer />
       </div>

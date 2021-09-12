@@ -44,7 +44,7 @@ export class About extends React.Component {
             knowlege to the test through implimetation in my own business ventures - hoping ultimately
             to build a team and run a tech-startup in the music industry. I'd like to venture into 
             learning Swift as well as solidifying my fundamental coding skills. My music startup idea
-            will be blockchain based, so that's something I'd lik to get a broad grip on in order to communicate
+            will be blockchain based, so that's something I'd like to get a broad grip on in order to communicate
             effectively with blockchain developers. Until then I'll be focused on
             building my skills on my own, working on coding projects, building my brand a session guitarist 
             for hip hop music, researching physics and calculus, etc. Lots of fun things to work on! 

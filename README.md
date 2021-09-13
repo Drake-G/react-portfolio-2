@@ -6,7 +6,7 @@ progress on all of the ideas proposed in the About Me section of this website.
 
 ## Installation
 
-You can check out the website at the following link: https://drake-g.github.io/react-portfolio-2/
+You can check out the website at the following link: https://stark-refuge-98022.herokuapp.com/About
 
 ## Photos 
 ![shot1](Images/reactscreenshotabout.png)
